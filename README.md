@@ -19,3 +19,6 @@ Never-married individuals have lower high-income counts.
 ## 4. Gender vs Education:  
 Across all education levels, males have higher representation in the above $50K category compared to females.  
 Females are more concentrated in lower-income brackets for the same education level.  
+# Dashboard 
+<img width="1851" height="822" alt="Adults Data Dashboard" src="https://github.com/user-attachments/assets/9d2fc467-2a07-49f6-bd09-9ff3065a83ae" />
+
